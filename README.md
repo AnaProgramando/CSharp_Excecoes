@@ -1,8 +1,33 @@
-# <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Exceções
+![banner CSharp - Exceções](https://github.com/AnaProgramando/CSharp_Excecoes/blob/09a5f8fc94afc38948c1ab022b4ea6752f608e0b/CSharp_Excecoes.png)
+----
+
+<img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
+
+<p align="center">
+ <a href="#-welcome">Welcome</a> | 
+ <a href="#-csharp---exce%C3%A7%C3%B5es">Exceções</a> | 
+ <a href="#-material-base">Material base</a> | 
+ <a href="#-primeiros-passos-com-exce%C3%A7%C3%B5es">Primeiros passos com exceções</a> | 
+ <a href="#-tratamento-de-exce%C3%A7%C3%B5es">Tratamento de exceções</a> | 
+ <a href="#-argumentexception-paramname-e-nameof">ArgumentException ParamName e nameof</a> | 
+ <a href="#-criando-exce%C3%A7%C3%B5es-ricas">Criando exceções ricas</a> | 
+ <a href="#-stacktrace-e-innerexception">StackTrace e InnerException</a> | 
+ <a href="#-finally-e-using">Finally e using</a> | 
+ <a href="#-refer%C3%AAncias">Referências</a> | 
+ <a href="#-d%C3%BAvidas">Dúvidas</a> | 
+ <a href="#%EF%B8%8F-contatos">Contatos</a> | 
+ <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
+</p>
+
+# 🤗 Welcome
 
 Olá, seja muito bem vinda(o)! 
 
 Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender C#, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
+
+<br>
+
+## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Exceções
 
 📚 Aproveite o código desse exercício
 
@@ -841,6 +866,9 @@ Se precisar de ajuda, entre em contato comigo 😉
 ✏️ Feito com ❤️ e C# por <a href="https://github.com/AnaProgramando">Ana Valentim</a>.
 
 💙 Se você gostou desse projeto, dê uma ⭐ e compartilhe!
+
+<br><br>
+[<img align="right" alt="Voltar ao topo" width="100px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/AnaProgramando/CSharp_Excecoes/blob/main/README.md#)
 
 
 <div>
